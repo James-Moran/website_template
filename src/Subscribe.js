@@ -16,7 +16,8 @@ const Input = styled.input`
   color: white;
   background: palevioletred;
   font-size: 1.5em;
-  width: 50%;
+  width: 15em;
+  max-width: 75%
 `;
 
 function IdeaFlow() {

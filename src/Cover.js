@@ -22,6 +22,12 @@ const Title = styled.div`
   align-items: center;
   justify-content: center;
   font-size: 5em;
+  @media (max-width: 768px) {
+    font-size: 4em;
+  }
+  @media (max-width: 500px) {
+    font-size: 3em;
+  }
   color: white;
 `
 
