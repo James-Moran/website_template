@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const Container = styled.div`
-background-color: #ffee00;
+background-color: #ffdd00;
 min-height: 100vh;
 display: flex;
 flex-direction: column;
@@ -16,8 +16,9 @@ const Input = styled.input`
   color: white;
   background: palevioletred;
   font-size: 1.5em;
-  width: 15em;
+  width: 50%;
 `;
+
 function IdeaFlow() {
     return (
     <Container>
