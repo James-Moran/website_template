@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/website_template/static/css/main.893be09a.chunk.css",
-    "main.js": "/website_template/static/js/main.fb52a270.chunk.js",
-    "main.js.map": "/website_template/static/js/main.fb52a270.chunk.js.map",
-    "runtime-main.js": "/website_template/static/js/runtime-main.91159362.js",
-    "runtime-main.js.map": "/website_template/static/js/runtime-main.91159362.js.map",
-    "static/js/2.14af3598.chunk.js": "/website_template/static/js/2.14af3598.chunk.js",
-    "static/js/2.14af3598.chunk.js.map": "/website_template/static/js/2.14af3598.chunk.js.map",
-    "static/js/3.b2975e03.chunk.js": "/website_template/static/js/3.b2975e03.chunk.js",
-    "static/js/3.b2975e03.chunk.js.map": "/website_template/static/js/3.b2975e03.chunk.js.map",
+    "main.js": "/website_template/static/js/main.4006b275.chunk.js",
+    "main.js.map": "/website_template/static/js/main.4006b275.chunk.js.map",
+    "runtime-main.js": "/website_template/static/js/runtime-main.5fb48d0f.js",
+    "runtime-main.js.map": "/website_template/static/js/runtime-main.5fb48d0f.js.map",
+    "static/js/2.c3ccf40a.chunk.js": "/website_template/static/js/2.c3ccf40a.chunk.js",
+    "static/js/2.c3ccf40a.chunk.js.map": "/website_template/static/js/2.c3ccf40a.chunk.js.map",
+    "static/js/3.8cfff5c4.chunk.js": "/website_template/static/js/3.8cfff5c4.chunk.js",
+    "static/js/3.8cfff5c4.chunk.js.map": "/website_template/static/js/3.8cfff5c4.chunk.js.map",
     "index.html": "/website_template/index.html",
     "static/css/main.893be09a.chunk.css.map": "/website_template/static/css/main.893be09a.chunk.css.map",
-    "static/js/2.14af3598.chunk.js.LICENSE.txt": "/website_template/static/js/2.14af3598.chunk.js.LICENSE.txt",
+    "static/js/2.c3ccf40a.chunk.js.LICENSE.txt": "/website_template/static/js/2.c3ccf40a.chunk.js.LICENSE.txt",
     "static/media/credit-card-svgrepo-com.c0a4b693.svg": "/website_template/static/media/credit-card-svgrepo-com.c0a4b693.svg",
     "static/media/increasing-chart-svgrepo-com.5796265c.svg": "/website_template/static/media/increasing-chart-svgrepo-com.5796265c.svg",
-    "static/media/pexels-abdullah-ghatasheh-1631677.d3ed3771.jpg": "/website_template/static/media/pexels-abdullah-ghatasheh-1631677.d3ed3771.jpg",
     "static/media/phone-svgrepo-com.52d7d2ec.svg": "/website_template/static/media/phone-svgrepo-com.52d7d2ec.svg",
     "static/media/wireframe.9e5f53a1.png": "/website_template/static/media/wireframe.9e5f53a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.91159362.js",
-    "static/js/2.14af3598.chunk.js",
+    "static/js/runtime-main.5fb48d0f.js",
+    "static/js/2.c3ccf40a.chunk.js",
     "static/css/main.893be09a.chunk.css",
-    "static/js/main.fb52a270.chunk.js"
+    "static/js/main.4006b275.chunk.js"
   ]
 }
