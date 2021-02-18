@@ -1,5 +1,3 @@
-
-import background from './images/pexels-abdullah-ghatasheh-1631677.jpg'
 import wireframe from "./images/wireframe.png"
 import styled from 'styled-components'
 import React from 'react';
@@ -7,8 +5,6 @@ import "./App.css";
 
 const Container = styled.div`
   min-height: 100vh;
-  background-color: #282c34;
-  background-image: url(${background});
   display: flex;
   flex-direction: row;
   align-items: center;

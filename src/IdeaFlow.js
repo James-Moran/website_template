@@ -6,9 +6,8 @@ import graph from './images/increasing-chart-svgrepo-com.svg'
 import IdeaCell from './IdeaCell'
 
 const Container = styled.div`
-background-color: #de7e85;
-min-height: 100vh;
 display: flex;
+flex: 1;
 flex-direction: row;
 align-items: center;
 justify-content: center;
